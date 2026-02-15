@@ -22,9 +22,10 @@
 - 💬 Ask me about anything [here]((https://www.linkedin.com/in/ibrahim-hasan-01276535b))
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-hasan5&show_icons=true&hide=contribs,prs&theme=transparent)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-hasan5&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-hasan5&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-hasan5&layout=compact&theme=github_dark)
+
 
 *Languages and Tools:*
 
